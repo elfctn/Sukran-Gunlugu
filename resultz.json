@@ -1,0 +1,134 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 11,
+  "numPassedTests": 11,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1744982363396,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " store/actions/index.js dosyası oluşturulmuş",
+          "status": "passed",
+          "title": "store/actions/index.js dosyası oluşturulmuş",
+          "duration": 25,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Tüm notlar sayfası açıldığında kayıtlı notları getiriyor.",
+          "status": "passed",
+          "title": "Tüm notlar sayfası açıldığında kayıtlı notları getiriyor.",
+          "duration": 86,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Yeni not ekleniyor",
+          "status": "passed",
+          "title": "Yeni not ekleniyor",
+          "duration": 958,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " react-toastify App.jsxde eklenmiş",
+          "status": "passed",
+          "title": "react-toastify App.jsxde eklenmiş",
+          "duration": 10,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " react-toastify css dosyası unutulmamış",
+          "status": "passed",
+          "title": "react-toastify css dosyası unutulmamış",
+          "duration": 9,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Yeni not eklendiğinde doğru metin ile toast mesajı görüntüleniyor",
+          "status": "passed",
+          "title": "Yeni not eklendiğinde doğru metin ile toast mesajı görüntüleniyor",
+          "duration": 897,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Not ekledikten sonra LocalStorageı güncelliyor",
+          "status": "passed",
+          "title": "Not ekledikten sonra LocalStorageı güncelliyor",
+          "duration": 905,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " idsi 1 olan mesaj silinince server hata dönüyor. Hata mesajı doğru metin ile ekranda görünüyor.",
+          "status": "passed",
+          "title": "idsi 1 olan mesaj silinince server hata dönüyor. Hata mesajı doğru metin ile ekranda görünüyor.",
+          "duration": 108,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Bu notu sil butonu ile not siliniyor",
+          "status": "passed",
+          "title": "Bu notu sil butonu ile not siliniyor",
+          "duration": 94,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " No silinince doğru metin ile toast mesajı görüntüleniyor",
+          "status": "passed",
+          "title": "No silinince doğru metin ile toast mesajı görüntüleniyor",
+          "duration": 103,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Not silindikten sonra LocalStorageı güncelliyor",
+          "status": "passed",
+          "title": "Not silindikten sonra LocalStorageı güncelliyor",
+          "duration": 102,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1744982939152,
+      "endTime": 1744982942451,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-8j6ybm/src/__tests__/index.test.jsx"
+    }
+  ]
+}
